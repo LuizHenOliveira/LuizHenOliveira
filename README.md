@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <h3 align="left">✨ SOBRE MIM</h3>
-      <p>Sempre em busca de explorar e tentar novas coisas na área tecnologia🚀. Como estudante de <b>Análise e Desenvolvimento de Sistemas</b>, me interesso por diversas áreas tech, mas tenho uma pequena atenção especial pela área de Cloud e Segurança.</p>
+      <p>Sempre em busca de explorar e buscar novos conhecimentos na área de tecnologia. Como estudante de <b>Análise e Desenvolvimento de Sistemas</b>, me interesso por diversas áreas tech, mas tenho uma pequena atenção especial pela área de Cloud e Segurança.</p>
     </td>
     <td>
   <div align="center">
