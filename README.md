@@ -139,6 +139,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualizações&color=0e75b6&style=flat" alt="Profile Views" /> 
-</div>
